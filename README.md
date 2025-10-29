@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student of the Faculty of Applied Mathematics and Control Processes of St. Petersburg State University</h3>
+<h3 align="center">Computer and Data science student of the Faculty of Applied Mathematics and Control Processes of St. Petersburg State University</h3>
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-E44D26?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Octave](https://img.shields.io/badge/Octave-0791D4?style=flat&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/)
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)](https://julialang.org/)
